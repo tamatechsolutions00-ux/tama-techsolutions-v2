@@ -5,7 +5,7 @@ export default function AboutPage() {
   const teamMembers = [
     { name: "S. Gautam Kushwaha", role: "Founder & CEO", image: "/team/founder.jpeg" },
     { name: "Aabind Kumar", role: "Management Head", image: "/team/management.jpg" },
-    { name: "Rahul Kumar", role: "Lead Developer", image: "/team/developer.jpg" },
+    { name: "Rahul Kumar", role: "Lead Developer", image: "/team/developer-v2.jpg" },
     { name: "Vikash Kumar", role: "App Developer", image: "/team/appdeveloper.jpg" },
     { name: "Bittu Maurya", role: "Web Developer", image: "/team/webdeveloper.jpg" },
     { name: "Alok Kumar", role: "Project Coordinator", image: "/team/projectcoordinator.jpg" },
